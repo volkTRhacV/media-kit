@@ -7,19 +7,7 @@ This repository contains official logo assets for vLLM in various formats and st
 ### Full Logos
 
 #### Light Mode
-![vLLM Full Logo](vLLM-Full-Logo.png)
-- [`vLLM-Full-Logo.svg`](vLLM-Full-Logo.svg) - Vector format
-- [`vLLM-Full-Logo.png`](vLLM-Full-Logo.png) - PNG format
-
-#### Dark Mode
-![vLLM Full Dark Mode Logo](vLLM-Full-Dark-Mode-Logo.png)
-- [`vLLM-Full-Dark-Mode-Logo.svg`](vLLM-Full-Dark-Mode-Logo.svg) - Vector format
-- [`vLLM-Full-Dark-Mode-Logo.png`](vLLM-Full-Dark-Mode-Logo.png) - PNG format
-
-### Compact Logos
-![vLLM Compact Logo](vLLM-Logo.png)
-- [`vLLM-Logo.svg`](vLLM-Logo.svg) - Vector format
-- [`vLLM-Logo.png`](vLLM-Logo.png) - PNG format
+   nev format izilasyon insane :![1705875361678](https://github.com/user-attachments/assets/b9379829-2e62-43c4-bc7e-f80d81b08ed2)
 
 ## Usage Guidelines
 
